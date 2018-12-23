@@ -1,0 +1,148 @@
+
+.menu
+{
+  width:400px;
+float: right;
+margin-top: 20px;
+}
+.m  {
+  margin:10px ;
+  padding: 55px;
+float: right;
+width:295px;
+height:294px;
+}
+.ip{
+  width:295px;
+  height:294px;
+   margin:10px ;
+  padding: 55px;
+float: right;
+}
+.menu a {
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 20px 10px 10px;
+  padding: 10px ;
+}
+.menu a:hover {
+  background: black;
+  color: #fff;
+}
+header {
+  border-bottom: 1px solid gray;
+  display: inline-block;
+  width: 100%;
+}
+.logo {
+  width: 250px;
+  float: left;
+}
+
+.topBaner {
+  max-width: 1100px;
+  margin: auto;
+}
+.title {
+  color: gray;
+  font-size: 27px;
+  float: left;
+}
+.topBaner img {
+  float: right;
+}
+.video
+{
+  background: DarkSlateGrey;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+}
+.video img {
+  float: left;
+  display: inline-block;
+  margin-left: 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .a
+{
+  width:200px;
+  height:200px;
+  margin:10px ;
+  padding: 100px;
+  position: fixed;
+  top:35%;
+  left: 80%;
+}
+
+  .b
+  {
+      width:200px;
+      height:200px;
+      position: fixed;
+      left: calc(50% - 100px);
+      top: 0;
+      animation: f 5s infinite  forwards;
+      z-index: 99
+  }
+
+@keyframes f {
+    0% {
+      left:0;
+      top:calc(50% -200px);
+    }
+    50%{
+      left: calc(50% - 100px);
+      top: 0;
+    }
+100%{
+      top: calc(50% - 100px);
+      left: calc(100% - 200px);
+            }
+
+
+} */
+
+
+/* @keyframes bounce {
+  0% {
+    top: calc(50% - 100px);
+    background: red;
+    width:200px;
+    height:200px;
+  }
+  45% {
+    top: calc(100% - 200px);
+    width:200px;
+    height:200px;
+  }
+  55%{
+      top: calc(100% - 160px);
+      left: calc(50% - 120px);
+      width: 240px;
+     height: 160px;
+
+  }
+  100% {
+  top: calc(50% - 100px);
+  }
+} */
